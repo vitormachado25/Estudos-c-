@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\bin\Debug\Solution firstclass.exe.config
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\bin\Debug\Solution firstclass.exe
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\bin\Debug\Solution firstclass.pdb
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\obj\Debug\Solution firstclass.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\obj\Debug\Solution firstclass.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\obj\Debug\Solution firstclass.exe
+C:\Users\victo\source\repos\Solution firstclass\Solution firstclass\obj\Debug\Solution firstclass.pdb
